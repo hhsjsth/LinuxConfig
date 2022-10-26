@@ -11,3 +11,9 @@ ls --all
 ls -a 
 ls
 zshconf
+ls
+whoami
+ls
+which nu
+brew info nu
+brew info nushell
