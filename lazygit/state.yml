@@ -1,6 +1,6 @@
 lastupdatecheck: 0
 recentrepos:
-- /home/gtr/repo/vscode
+- /home/gtr/repo/riscv-gnu-toolchain/glibc
 startuppopupversion: 5
 customcommandshistory: []
 hidecommandlog: false
