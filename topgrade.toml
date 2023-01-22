@@ -42,10 +42,9 @@ disable = ["emacs", "node", "config_update", "tldr"]
 [git]
 #max_concurrency = 5
 # Additional git repositories to pull
-#repos = [
-#    "~/src/*/",
-#    "~/.config/something"
-#]
+repos = [
+    "~/myRepo/helloRust/",
+]
 
 # Don't pull the predefined git repos
 #pull_predefined = false
