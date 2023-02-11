@@ -1,1 +1,0 @@
-/mnt/d/BaiduSyncdisk/Configuration/Develop/vim/.vimrc

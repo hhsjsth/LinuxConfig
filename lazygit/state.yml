@@ -1,6 +1,7 @@
 lastupdatecheck: 0
 recentrepos:
-- /home/gtr/repo/riscv-gnu-toolchain/glibc
+- /home/gtr/myRepo/helloRust
 startuppopupversion: 5
-customcommandshistory: []
+customcommandshistory:
+- add
 hidecommandlog: false
